@@ -1,5 +1,4 @@
 A fun projrct to find more abiut your favrouite pokemon.
-<a herf="https://shrouded-journey-05367.herokuapp.com/">Try live demo </a>
 
 ## Demo screen-shots
 ![pokedex](https://user-images.githubusercontent.com/80755644/126389354-16499042-372a-414f-b635-f882b48897e1.gif)

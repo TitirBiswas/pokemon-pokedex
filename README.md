@@ -1,6 +1,6 @@
 # pokemon-pokedex
 
-#### A fun project to find more about your favrouite pokemon. This is a single page application made with React js.
+A fun project to find more about your favrouite pokemon. This is a single page application made with React js.
 
 ## Demo screen-shots
 ![pokedex](https://user-images.githubusercontent.com/80755644/126389354-16499042-372a-414f-b635-f882b48897e1.gif)
